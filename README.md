@@ -1,4 +1,4 @@
-# Submission Akhir: Simulasi Ujian Associate Android Developer (AAD)
+# Submission 1: Simulasi Ujian Associate Android Developer (AAD)
 
 Repositori ini berisi submission untuk simulasi ujian **Associate Android Developer (AAD)** dari Dicoding, yang diselesaikan pada **13 Juli 2023**. Aplikasi ini mencakup berbagai fitur yang disyaratkan untuk memenuhi standar ujian AAD.
 
